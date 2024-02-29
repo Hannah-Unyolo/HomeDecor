@@ -1,0 +1,76 @@
+#container{
+  background-color: aliceblue;
+  margin: 12% 12%;
+
+}
+.content{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-left: 5%;
+    margin-top: 8%;
+}
+.words{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    padding-left: 5%;
+    
+}
+.vases{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-left: 5%;  
+}
+#prices{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-left: 5%;   
+}
+#head{
+    padding-left: 5%;
+}
+.content2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-left: 5%;
+}
+#heading{
+    text-align: center;
+}
+.content3{
+    display: grid;
+    grid-template-columns: 50% 50%; 
+    padding-left: 5%; 
+}
+#heading2{
+    text-align: center;
+}
+#icons{
+    text-align: center;
+}
+#heading3{
+    text-align: center;
+}
+#services{
+    display: grid;
+    grid-template-columns: 18% 18% 18% 18%;
+    text-align: center;
+    padding-left: 20%;
+}
+#last{
+    padding-left: 50%;
+}
+#service{
+    display: grid;
+    grid-template-columns: 18% 18% 18% 18%;
+    text-align: center;
+    padding-left: 20%;   
+}
+#title{
+    text-align: center;
+}
+
+
+
+
+
+
